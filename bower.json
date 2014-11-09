@@ -6,6 +6,7 @@
         "backbone": null,
 	"backbone.localStorage": null,
         "underscore": null,
-        "requirejs": null
+        "requirejs": null,
+	"text": null
     }
 }

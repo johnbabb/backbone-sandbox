@@ -8,8 +8,9 @@ require.config({
                     "../js/vendor/jquery/jquery"],
         underscore: "../js/vendor/underscore/underscore",
         backbone: "../js/vendor/backbone/backbone",
-        'backbone.localStorage': '../js/vendor/backbone.localStorage',        	
+        'backbone.localStorage': '../js/vendor/backbone.localStorage/backbone.localStorage',        	
         router: "../js/router",
+        text: "../js/vendor/text/text"
         
     },
     shim: {
